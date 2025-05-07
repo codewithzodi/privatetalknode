@@ -3,7 +3,6 @@
 ![Voice Connect Screenshot](assets/screenshot.png)  
 *A real-time voice chat application built with WebRTC and Firebase for seamless peer-to-peer audio communication.*
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Made with HTML, CSS, JS](https://img.shields.io/badge/Made%20with-HTML%2FCSS%2FJS-orange)
 ![WebRTC](https://img.shields.io/badge/WebRTC-Enabled-green)
 ![Firebase](https://img.shields.io/badge/Firebase-RealtimeDB-yellow)
@@ -30,6 +29,7 @@
 ```bash
 git clone https://github.com/codewithzodi/voice-connect.git
 cd voice-connect
+```
 2. Set up Firebase
 Go to Firebase Console
 
@@ -61,11 +61,8 @@ OR
 Deploy it to any static hosting provider like:
 
 GitHub Pages
-
 Vercel
-
 Netlify
-
 Firebase Hosting
 
 🛠️ Technologies Used
@@ -137,4 +134,4 @@ Project Repository:
 
 ❤️ All open source contributors
 
-Made with ❤️ by Zodi Bhai | CodeWithZodi
+Made with ❤️ by Zodi Bhai | [Code With Zodi](https://github.com/codewithzodi)
