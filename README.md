@@ -1,6 +1,6 @@
 # 🔥 Zodi Bhai Hub - Voice Connect
 
-![Voice Connect Screenshot](https://ibb.co/LD8JL3Ws)  
+![Voice Connect Screenshot](https://i.ibb.co/LD8JL3Ws/Screenshot-2025-05-07-192714.png)  
 *A real-time voice chat application built with WebRTC and Firebase for seamless peer-to-peer audio communication.*
 
 ![Made with HTML, CSS, JS](https://img.shields.io/badge/Made%20with-HTML%2FCSS%2FJS-orange)
