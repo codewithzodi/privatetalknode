@@ -31,13 +31,13 @@ git clone https://github.com/codewithzodi/voice-connect.git
 cd voice-connect
 ```
 ### 2. Set up Firebase
-Go to Firebase Console
+- Go to Firebase Console
 
-Create a new project
+- Create a new project
 
-Enable Realtime Database
+- Enable Realtime Database
 
-Get your Firebase config and replace it inside script.js
+- Get your Firebase config and replace it inside script.js
 
 ```bash
 // script.js
@@ -52,11 +52,12 @@ const firebaseConfig = {
   databaseURL: "YOUR_DATABASE_URL"
 };
 ```
-### 3. Run the App You can run it locally by opening index.html in your browser.
-### OR
+
 
 ---
-##Deploy it to any static hosting provider like:
+### 3. Run the App You can run it locally by opening index.html in your browser.
+### OR
+### Deploy it to any static hosting provider like:
 
 - GitHub Pages
 - Vercel
@@ -66,12 +67,12 @@ const firebaseConfig = {
 ---
 
 ## 🛠️ Technologies Used
-Category	Tech Stack
-Frontend	HTML5, CSS3, JavaScript
-Real-time Comm.	WebRTC
-Signaling Server	Firebase Realtime Database
-UI Frameworks	Font Awesome, Google Fonts
-Styling	CSS Variables, Flexbox, CSS Grid
+- Category	Tech Stack
+- Frontend	HTML5, CSS3, JavaScript
+- Real-time Comm.	WebRTC
+- Signaling Server	Firebase Realtime Database
+- UI Frameworks	Font Awesome, Google Fonts
+- Styling	CSS Variables, Flexbox, CSS Grid
 
 ## 📂 Project Structure
 
@@ -92,9 +93,6 @@ Contributions are welcome! 🎉
 ## 📧 Contact
 GitHub - [@CodeWithZodi](https://github.com/codewithzodi)
 📩 mailzodibhai@gmail.com
-
-## Project Repository:
-👉 Voice Connect on GitHub
 
 ## 🙏 Acknowledgments
 - 🧠 WebRTC team — for amazing real-time communication tools
