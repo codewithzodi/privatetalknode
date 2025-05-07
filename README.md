@@ -30,7 +30,7 @@
 git clone https://github.com/codewithzodi/voice-connect.git
 cd voice-connect
 ```
-2. Set up Firebase
+### 2. Set up Firebase
 Go to Firebase Console
 
 Create a new project
@@ -52,19 +52,19 @@ const firebaseConfig = {
   databaseURL: "YOUR_DATABASE_URL"
 };
 ```
-3. Run the App
-You can run it locally by opening index.html in your browser.
+### 3. Run the App You can run it locally by opening index.html in your browser.
+### OR
+### Deploy it to any static hosting provider like:
 
-OR
-
-Deploy it to any static hosting provider like:
-
+---
 GitHub Pages
 Vercel
 Netlify
 Firebase Hosting
+NGROK
+---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Category	Tech Stack
 Frontend	HTML5, CSS3, JavaScript
 Real-time Comm.	WebRTC
@@ -72,7 +72,7 @@ Signaling Server	Firebase Realtime Database
 UI Frameworks	Font Awesome, Google Fonts
 Styling	CSS Variables, Flexbox, CSS Grid
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```bash
 voice-connect/
@@ -81,31 +81,26 @@ voice-connect/
 └── assets/             # Icons, screenshots, etc.
 ```
 
-🔧 Configuration
+## 🔧 Configuration
 Make sure to replace your Firebase project credentials in the firebaseConfig object inside index.html.
 You can find them under your Firebase Console → Project Settings → General.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! 🎉
 
-📜 License
-Distributed under the MIT License.
-See LICENSE for more information.
-
-📧 Contact
+## 📧 Contact
 GitHub - [@CodeWithZodi](https://github.com/codewithzodi)
 📩 mailzodibhai@gmail.com
 
-Project Repository:
+## Project Repository:
 👉 Voice Connect on GitHub
 
-🙏 Acknowledgments
-🧠 WebRTC team — for amazing real-time communication tools
+## 🙏 Acknowledgments
+- 🧠 WebRTC team — for amazing real-time communication tools
+- 🔥 Firebase — for providing scalable backend solutions
+- 🎨 Font Awesome — for clean and useful icons
+- ❤️ All open source contributors
 
-🔥 Firebase — for providing scalable backend solutions
-
-🎨 Font Awesome — for clean and useful icons
-
-❤️ All open source contributors
-
+---
 Made with ❤️ by Zodi Bhai | [Code With Zodi](https://github.com/codewithzodi)
+---
