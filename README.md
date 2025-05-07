@@ -54,14 +54,15 @@ const firebaseConfig = {
 ```
 ### 3. Run the App You can run it locally by opening index.html in your browser.
 ### OR
-### Deploy it to any static hosting provider like:
 
 ---
-GitHub Pages
-Vercel
-Netlify
-Firebase Hosting
-NGROK
+##Deploy it to any static hosting provider like:
+
+- GitHub Pages
+- Vercel
+- Netlify
+- Firebase Hosting
+- NGROK
 ---
 
 ## 🛠️ Technologies Used
