@@ -39,9 +39,7 @@ Enable Realtime Database
 
 Get your Firebase config and replace it inside script.js
 
-js
-Copy
-Edit
+```bash
 // script.js
 const firebaseConfig = {
   apiKey: "YOUR_API_KEY",
@@ -53,6 +51,7 @@ const firebaseConfig = {
   measurementId: "YOUR_MEASUREMENT_ID",
   databaseURL: "YOUR_DATABASE_URL"
 };
+```
 3. Run the App
 You can run it locally by opening index.html in your browser.
 
@@ -74,53 +73,28 @@ UI Frameworks	Font Awesome, Google Fonts
 Styling	CSS Variables, Flexbox, CSS Grid
 
 📂 Project Structure
-bash
-Copy
-Edit
+
+```bash
 voice-connect/
-├── index.html          # Main HTML file
-├── style.css           # CSS styles
-├── script.js           # Core JavaScript
+├── index.html          # Main HTML, CSS, JavaScript
 ├── README.md           # Project documentation
 └── assets/             # Icons, screenshots, etc.
-🔧 Configuration
-Make sure to replace your Firebase project credentials in the firebaseConfig object inside script.js.
+```
 
+🔧 Configuration
+Make sure to replace your Firebase project credentials in the firebaseConfig object inside index.html.
 You can find them under your Firebase Console → Project Settings → General.
 
 🤝 Contributing
 Contributions are welcome! 🎉
-
-Fork the project
-
-Create your feature branch:
-
-bash
-Copy
-Edit
-git checkout -b feature/AmazingFeature
-Commit your changes:
-
-bash
-Copy
-Edit
-git commit -m 'Add some AmazingFeature'
-Push to the branch:
-
-bash
-Copy
-Edit
-git push origin feature/AmazingFeature
-Open a Pull Request
 
 📜 License
 Distributed under the MIT License.
 See LICENSE for more information.
 
 📧 Contact
-Zodi Bhai
-GitHub - @CodeWithZodi
-📩 codewithzodi@example.com
+GitHub - [@CodeWithZodi](https://github.com/codewithzodi)
+📩 mailzodibhai@gmail.com
 
 Project Repository:
 👉 Voice Connect on GitHub
